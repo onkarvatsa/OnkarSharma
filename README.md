@@ -7,7 +7,7 @@
 
 :writing_hand: **My Recent Articles**
 
-- [My Journey From 0 To 5 Million] (https://www.c-sharpcorner.com/article/my-journey-from-0-to-5-million/)
+- [My Journey From 0 To 5 Million](https://www.c-sharpcorner.com/article/my-journey-from-0-to-5-million/)
 
 :star2:	**How to reach me**
 
